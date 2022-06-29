@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=benda
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ benda\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=boolean\ atWorldEdge()
+comment2.params=clss
+comment2.target=boolean\ canSee(java.lang.Class)
+comment3.params=clss
+comment3.target=void\ eat(java.lang.Class)
+numComments=4
