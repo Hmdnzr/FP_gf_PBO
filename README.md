@@ -5,6 +5,4 @@ Task game greenfot
 
 ## Anggota:
 1. HamdanZR
-2. M Fahrur Rozi
-3. Ramadhani Saputra
-4. Yudhistira Dhamaryuda
+
